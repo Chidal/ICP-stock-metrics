@@ -38,20 +38,6 @@ app.post("/runverify", (req, res) => {
     console.log(`Deploy output: ${stdout}`);
     res.status(200).send("Deployment successful");
   });
-});
-//connect to database
-
-// connectDB();
-
-//DEV LOGGING MIDDLEWARE
-// if (process.env.NODE_ENV === "development") {
-//   // app.use(logger);
-//   app.use(morgan("dev"));
-// }
-
-//Mount routers
-// app.use("/api/v1/bootcamps", bootcamps);
-
 const PORT = process.env.PORT || 4000;
 
 app.listen(

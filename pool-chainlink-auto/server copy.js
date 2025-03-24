@@ -13,7 +13,6 @@ app.post("/rundeploy", (req, res) => {
     res.status(200).send("Deployment successful");
   });
 });
-
 app.post("/runverify", (req, res) => {
   const deployCommand =
     "npx hardhat verify 0xE0a6688486e1a75B1b910B6fAbD0c31D7F09DeD5 --network sepolia";

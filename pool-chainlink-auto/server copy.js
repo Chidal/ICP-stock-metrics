@@ -1,15 +1,3 @@
-const express = require("express");
-const dotenv = require("dotenv");
-// const morgan = require("morgan");
-const main = require("./scripts/deploy-binance");
-const colors = require("colors");
-const { exec } = require("child_process");
-
-dotenv.config({ path: "./config/config.env" });
-
-const app = express();
-
-//Body Parser
 
 app.use(express.json());
 

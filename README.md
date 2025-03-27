@@ -13,9 +13,9 @@
 
 ![](./src/images/demo.gif)
 
-# Live Demo
 
 
+https://icpmetrics-stock.netlify.app/
 
 ---
 

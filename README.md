@@ -7,8 +7,7 @@
 
 <br/>
 
-# Presentation
-[Presentation Link](https://www.loom.com/share/826b3bcf225b438c9cc1651e917ce8e7)
+
 # Mini Demo 
 
 ![](./src/images/demo.gif)

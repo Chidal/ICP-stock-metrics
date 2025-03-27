@@ -3,7 +3,8 @@
 # 📈 Stock-Metrics App  
 
 ## 🚀 Overview  
-Stock-Metrics is a powerful stock analytics dApp built on **Internet Computer (ICP)** to provide real-time stock insights. It visualizes key metrics with **intuitive charts and graphs**, allowing users to track market trends effortlessly. The app integrates **Internet Identity** for secure access and leverages **Canisters** to manage stock data efficiently. 
+## 🚀 概要  
+**Stock-Metrics**は、**Internet Computer (ICP)** 上に構築された強力な株式分析dAppで、リアルタイムの株式インサイトを提供します。**直感的なチャートやグラフ**を活用して、ユーザーが市場のトレンドを簡単に追跡できるようにします。アプリは**Internet Identity**を統合し、安全なアクセスを確保するとともに、**Canisters**を活用して効率的に株式データを管理します。  
 
 <br/>
 

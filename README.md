@@ -14,8 +14,3 @@
 ![](./src/images/demo.gif)
 
 # Live Demo
-
-[Live Link](https://stock-metrics.netlify.app/)
-
-<br/>
-
